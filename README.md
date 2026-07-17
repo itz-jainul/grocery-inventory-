@@ -53,6 +53,11 @@ GroceryVault is a premium, feature-rich, offline-first Progressive Web Applicati
   - [html5-qrcode](https://github.com/mebjas/html5-qrcode) — Device camera barcode scanner
 
 ---
+## 📸 Screenshots
+<img width="1920" height="984" alt="Screenshot 2026-07-16 070420" src="https://github.com/user-attachments/assets/6bc1f0d6-75c9-4b6b-8d65-c0b1bffef11b" />
+
+
+
 
 ## 📦 Setup & Installation
 
