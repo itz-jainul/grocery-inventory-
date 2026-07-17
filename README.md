@@ -55,6 +55,13 @@ GroceryVault is a premium, feature-rich, offline-first Progressive Web Applicati
 ---
 ## 📸 Screenshots
 <img width="1920" height="984" alt="Screenshot 2026-07-16 070420" src="https://github.com/user-attachments/assets/6bc1f0d6-75c9-4b6b-8d65-c0b1bffef11b" />
+<img width="1920" height="975" alt="Screenshot 2026-07-16 070654" src="https://github.com/user-attachments/assets/d714807d-12a9-414a-8720-d90057ca033c" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-16 070543" src="https://github.com/user-attachments/assets/477156ce-32e2-444c-8efc-ceda8be10fc5" />
+<img width="1920" height="974" alt="Screenshot 2026-07-16 070905" src="https://github.com/user-attachments/assets/eabae532-7a19-4877-88ad-829450c6db07" />
+<img width="1920" height="978" alt="Screenshot 2026-07-16 070836" src="https://github.com/user-attachments/assets/1ca3ec33-bb77-42a8-b838-7c5625e51a9b" />
+<img width="1920" height="977" alt="Screenshot 2026-07-16 070733" src="https://github.com/user-attachments/assets/b98da8e0-fd40-49ef-92c5-8ba0d5f1e7a6" />
+
+
 
 
 
